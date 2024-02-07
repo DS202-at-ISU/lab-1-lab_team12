@@ -10,14 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Lab report #1
 
-Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
-
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
-
-All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
-
 -   Step 12.2: Fine, did not run into any problems. Was able to copy the link properly.
 
 -   Step 12.3: Fine for the most part, had a confusing part because I accidentally doubled the file under my own git account and not my groups. So I had to delete my previous one.
 
--   Step 12.4:
+-   Step 12.4: Fine, was able to save and commit my work to git.
+
+-   Step 12.5: Did not work at first, but had to wait so we all did not do it at the same time.
+
+-   Step 12.6: Was able to see changes on the GitHub repo.
